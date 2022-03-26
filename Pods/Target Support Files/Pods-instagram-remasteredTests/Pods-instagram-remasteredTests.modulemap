@@ -1,0 +1,6 @@
+framework module Pods_instagram_remasteredTests {
+  umbrella header "Pods-instagram-remasteredTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
