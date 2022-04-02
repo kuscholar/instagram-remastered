@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/kuscholar/instagram-remastered/blob/772f733ecb04c993e1279ea95a5995f207b2ba60/demo2.gif' />
 
 # Parstagram - Part I
 
