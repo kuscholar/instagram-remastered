@@ -18,5 +18,6 @@ target 'instagram-remastered' do
 
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
 end
